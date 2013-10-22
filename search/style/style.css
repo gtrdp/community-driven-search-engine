@@ -1,0 +1,66 @@
+#search {
+	
+}
+
+#wrapper {
+	width: 960px;
+	margin: auto;
+}
+
+h2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: normal;
+	font-style: normal;
+	font-variant: normal;
+	text-transform: none;
+	text-decoration: underline;
+	text-indent: 0px;
+	line-height: 1.2em;
+	margin: 0;
+}
+
+li {
+	list-style: none;
+}
+
+span.url {
+	color: #009933;
+	font-family: arial,sans-serif;
+	font-size: 13px;
+	line-height: 1.2em;
+	vertical-align: baseline;
+	letter-spacing: normal;
+	word-spacing: 0px;
+}
+
+span.search {
+	color: #222222;
+	font-family: arial;
+}
+
+p.desc {
+	color: #222222;
+	font-family: arial;
+	font-size: 13px;
+	line-height: 1.24em;
+	vertical-align: baseline;
+	letter-spacing: normal;
+	word-spacing: 0px;
+	margin: 0 0 30px 0;
+}
+
+em {
+	font-weight: bold;
+	font-style: normal;
+}
+
+h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	font-weight: normal;
+}
+
+#navigation {
+	margin: auto;
+}
